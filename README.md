@@ -1,4 +1,4 @@
 # About Me
-No Info Alowed Bro
+No Info Allowed Bro
 # My Best Coding Language?
 Python ._.
