@@ -1,2 +1,1 @@
-# My Best Coding Language?
-Python ._.
+pluh :3
